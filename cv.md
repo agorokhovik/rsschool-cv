@@ -4,12 +4,12 @@
 ### Contact:
   - _Phone_: +375299712976
   - _email_: angelina14021998@mail.ru
-  - _Telegram_: https://t.me/agorokhovik
+  - _Telegram_: [https://t.me/agorokhovik](https://t.me/agorokhovik)
   
   
 ### Social:
- - _LinkedIn_: https://www.linkedin.com/in/a-gorokhovik/
-  - _Facebook_: https://www.facebook.com/a.gorokhovik/
+ [LinkedIn](https://www.linkedin.com/in/a-gorokhovik/) <br/>
+ [Facebook](https://www.facebook.com/a.gorokhovik/)
  
 
 ### Summary
@@ -46,7 +46,7 @@ function multiplyNumeric(obj) {
 | Educational institution | Specialization | Years |
 | ------ | ------ | ------ |
 | Belarus State Economic University of Minsk | Commercial and tourism industry | 2017-2021 |
-__Online Course__: JavaScript (Andersen), Udemy JS-course, Coursera
+| __Online Course__: JavaScript (Andersen), Udemy JS-course, Coursera |
 
 
 ### English
